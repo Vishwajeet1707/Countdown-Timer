@@ -1,0 +1,23 @@
+.Date-input{
+    text-align: center;
+    font-size: large;
+
+}
+
+.Date-input input{
+    padding: 15px;
+    margin:0 auto;
+    margin: 10px;
+    border-radius: 8px;
+    width: 20%;
+}
+
+button{
+    width: 5%;
+    padding: 5px;
+    margin: 10px;
+    margin: o auto;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.83);
+    color: rgb(241, 233, 227);
+}
